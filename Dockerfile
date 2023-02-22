@@ -1,3 +1,4 @@
 From nzno/main:rclone
 
-CMD ["bash","start.sh"]
+RUN rm -rf config env
+COPY . .
