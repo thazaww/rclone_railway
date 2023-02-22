@@ -1,4 +1,1 @@
-From nzno/main:rclone
-
-RUN rm -rf config env
-COPY . .
+From nzno/main:clever-cloud
