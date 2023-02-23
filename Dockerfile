@@ -1,3 +1,1 @@
-From nzno/main:clever-cloud
-
-CMD ["bash","start.sh"]
+From nzno/main:anas-dk
