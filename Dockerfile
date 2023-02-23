@@ -1,3 +1,1 @@
-FROM nzno/main:rclone
-RUN rm -rf Sample_config env
-COPY . .
+FROM nzno/main:anas_rclone
